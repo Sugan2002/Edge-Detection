@@ -1,4 +1,5 @@
-# Edge-Detection
+# <p align="center"> EDGE DETECTION </P>
+
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
