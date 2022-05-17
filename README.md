@@ -34,6 +34,10 @@ canny=cv2.Canny(img,120,150)
 ### Step3:
 Display all the images with their respective edge detected images.
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ## Program:
 
